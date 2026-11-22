@@ -1,0 +1,9 @@
+{
+  "name": "subagent-monitor",
+  "version": "0.1.0",
+  "description": "A compact live band above the prompt showing every subagent, its state and its token usage",
+  "author": { "name": "Daniel Dauber" },
+  "license": "MIT",
+  "keywords": ["subagents", "monitor", "band", "tokens"],
+  "types": "./types/index.d.ts"
+}

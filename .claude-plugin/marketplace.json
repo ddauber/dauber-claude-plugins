@@ -1,0 +1,13 @@
+{
+  "name": "dauber-claude-plugins",
+  "description": "Daniel Dauber's personal Claude Code plugins and mods",
+  "owner": { "name": "Daniel Dauber" },
+  "plugins": [
+    {
+      "name": "subagent-monitor",
+      "source": "./plugins/subagent-monitor",
+      "description": "A compact live band above the prompt showing every subagent, its state and its token usage",
+      "version": "0.1.0"
+    }
+  ]
+}
