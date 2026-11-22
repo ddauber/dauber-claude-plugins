@@ -80,6 +80,13 @@ The figures come from Claude Code's own per-agent usage (`$.agent.list()`). Cont
 - **Hot reloads:** reloading the mod while developing resets its own counters, so stall timers and folding start over.
 - **Desktop alignment:** right alignment is done with spaces, so it lines up exactly only in monospace terminals.
 
+## Install
+
+```
+claude plugin marketplace add ddauber/dauber-claude-plugins
+claude plugin install subagent-monitor@dauber-claude-plugins
+```
+
 ## Develop
 
 ```

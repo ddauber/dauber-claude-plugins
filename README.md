@@ -7,11 +7,11 @@ A personal [Claude Code](https://code.claude.com) plugin marketplace: mods and p
 Add the marketplace, then install any plugin from it:
 
 ```
-claude plugin marketplace add <github-owner>/dauber-claude-plugins
+claude plugin marketplace add ddauber/dauber-claude-plugins
 claude plugin install subagent-monitor@dauber-claude-plugins
 ```
 
-Or from inside a session: `/plugin install subagent-monitor --marketplace <github-owner>/dauber-claude-plugins`.
+Or from inside a session: `/plugin install subagent-monitor --marketplace ddauber/dauber-claude-plugins`.
 
 To try a plugin from a local checkout without installing it:
 
